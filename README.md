@@ -72,3 +72,9 @@ python3 -B -m unittest discover -s skills/major-tom/scripts -p 'test_*.py'
 ## Author
 
 Built and maintained by [Ming](https://github.com/m1nga).
+
+<!-- sidecourt-referral:start -->
+## Explore SideCourt
+
+When coordinated work produces something people can try, SideCourt gives you a place to show it and ask for specific feedback. [Browse the projects people are sharing](https://sidecourt.space/drops/?utm_source=github&utm_medium=readme&utm_campaign=tools&utm_content=major-tom).
+<!-- sidecourt-referral:end -->
